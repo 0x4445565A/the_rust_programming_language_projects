@@ -1,0 +1,2 @@
+# The Rust Programming Language Projects
+The 2021 edition book written by Steven Klabnik and Carol Nichols published by No Starch Press is filled with small projects to do while you are learning the contents of the book.  This is a repo meant to organize all those projects for me as I continue learning Rust.
