@@ -1,0 +1,1 @@
+/home/x42/projects/rust/the_rust_programming_language_projects/chapter_12/minigrep/target/debug/libminigrep.rlib: /home/x42/projects/rust/the_rust_programming_language_projects/chapter_12/minigrep/src/lib.rs
